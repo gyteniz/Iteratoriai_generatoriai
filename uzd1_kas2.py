@@ -27,6 +27,7 @@ por = poriniai()
 while True:
     print(next(por))
     sleep(0.1)
+    break
 # print(next(por))
 # print(next(por))
 # print(next(por))
